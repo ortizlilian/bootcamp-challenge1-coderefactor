@@ -1,3 +1,5 @@
+/* || GENERAL STYLES */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -59,6 +61,8 @@ p {
     background-position: center;
 }
 
+/* || DIV CONTENT CLASS STYLES */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,6 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* || SEARCH ENGINE OPTIMIZATION ID STYLES */
 
 #search-engine-optimization {
     margin-bottom: 20px;
@@ -93,6 +99,8 @@ p {
     font-size: 36px;
 }
 
+/* || ONLINE REPUTATION MANAGEMENT ID STYLES */
+
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,6 +118,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* || SOCIAL MEDIA MARKETING ID STYLES */
 
 #social-media-marketing {
     margin-bottom: 20px;
@@ -129,6 +139,8 @@ p {
     font-size: 36px;
 }
 
+/* || DIV BENEFITS CLASS STYLES */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,6 +151,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* || BENEFIT LEAD ID STYLES */
 
 #benefit-lead {
     margin-bottom: 32px;
@@ -156,6 +170,8 @@ p {
     max-width: 150px;
 }
 
+/* || BENEFIT BRAND ID STYLES */
+
 #benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -172,6 +188,8 @@ p {
     max-width: 150px;
 }
 
+/* || BENEFIT COST ID STYLES */
+
 #benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -187,6 +205,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* || FOOTER STYLES */
 
 footer {
     padding: 30px;
